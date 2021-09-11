@@ -25,7 +25,7 @@ By refactoring my script I saw a huge reduction in run time for Excel to execute
 
 **Original Code Run Times** 
 ![This is an image](https://github.com/ddigioac/stock-analysis/blob/68f13cbcff8714b55e8c8330bdb5215ff20a61d9/OriginalRT_2017.png)
-![This is an image]()
+![This is an image](https://github.com/ddigioac/stock-analysis/blob/0d6564dc999f6931092876b42ea817eae0dcffaa/OriginalRT_2018.png)
 
 **Refactored Script Run Times**
 ![This is an image]()
