@@ -16,7 +16,7 @@ To begin my analysis of the annual stock performances for 2017 and 2018, I first
 
 The entire set of stocks I analyzed in 2017, except for one, had a positive return. However, in 2018 every stock, except for two, had a negative return. The only two stocks that had a positive return for both 2017 and 2018 were ENPH and RUN. We can conclude that the overall market in 2017 outperformed 2018.
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/stock-analysis/blob/9648dcd084f16c169d893cc8f9e47e587c12a720/All_Stocks_%202017.png)
 ![This is an image]()
 
 ### Execution Times of The Original Code vs. Refactored Script
