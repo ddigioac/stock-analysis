@@ -24,7 +24,7 @@ The entire set of stocks I analyzed in 2017, except for one, had a positive retu
 By refactoring my script I saw a huge reduction in run time for Excel to execute my code. Originally my code took approximately 0.3 seconds to complete. Once I refactored the code to run more efficiently my script took approximately 0.09 seconds to execute. That equates to approximately 70% reduction in run time.
 
 **Original Code Run Times** 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/stock-analysis/blob/68f13cbcff8714b55e8c8330bdb5215ff20a61d9/OriginalRT_2017.png)
 ![This is an image]()
 
 **Refactored Script Run Times**
