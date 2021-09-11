@@ -29,7 +29,8 @@ By refactoring my script I saw a huge reduction in run time for Excel to execute
 ![This is an image](https://github.com/ddigioac/stock-analysis/blob/0d6564dc999f6931092876b42ea817eae0dcffaa/OriginalRT_2018.png)
 
 **Refactored Script Run Times**
-![This is an image]()
+
+![This is an image](https://github.com/ddigioac/stock-analysis/blob/812d22ee3cbbd2d1b3742642d2185a350c35c071/VBA_Challenge_2017.png)
 ![This is an image]()
 ## Summary
 
