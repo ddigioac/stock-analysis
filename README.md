@@ -42,4 +42,5 @@ The disadvantages of code refactoring are that it can be time consuming and cumb
 
 **2.How do these pros and cons apply to refactoring the original VBA script?**
 
+Once I refactored my code I saw a significant decrease in runtime. By doing so, this will allow me to run my script on a larger dataset to potentially include more years or more stocks to analyze. It also improved the overall readability of my code, which will help me to fix bugs quicker and collaborate with others in the future. Refactoring the script did take more time for me to complete however the complexity of the code was low, so I didn't have to worry about making too many mistakes.
 
