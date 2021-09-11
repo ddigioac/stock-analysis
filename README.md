@@ -12,7 +12,7 @@ In this analysis I will compare the annual stock performances for 2017 and 2018,
 
 To begin my analysis of the annual stock performances for 2017 and 2018, I first had to create a script that would comb through our dataset and determine the starting prices, ending prices and daily volumes for the stocks we were analyzing. In order to calculate the returns for the year I had to take the 'Ending Price' divided by the 'Starting Price' and subtract one, for each stock for that year. 
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/stock-analysis/blob/9903aa60937798ccb83fa2fdf5970d6dc56b0ffb/Return%20_Calc.png)
 
 The entire set of stocks I analyzed in 2017, except for one, had a positive return. However, in 2018 every stock, except for two, had a negative return. The only two stocks that had a positive return for both 2017 and 2018 were ENPH and RUN. We can conclude that the overall market in 2017 outperformed 2018.
 
