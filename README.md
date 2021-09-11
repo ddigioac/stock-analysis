@@ -31,7 +31,7 @@ By refactoring my script I saw a huge reduction in run time for Excel to execute
 **Refactored Script Run Times**
 
 ![This is an image](https://github.com/ddigioac/stock-analysis/blob/812d22ee3cbbd2d1b3742642d2185a350c35c071/VBA_Challenge_2017.png)
-![This is an image]()
+![This is an image](https://github.com/ddigioac/stock-analysis/blob/60ddc27c613c5d82b3f522538ea93005806003b3/VBA_Challenge_2018.png)
 ## Summary
 
 **1. What are the advantages or disadvantages of refactoring code?**
